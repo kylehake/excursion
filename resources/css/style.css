@@ -1,5 +1,7 @@
 html {
     background-color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
 }
 h1 {
     font-family: Verdana, sans-serif;
@@ -7,4 +9,18 @@ h1 {
     font-size: 50px;
     color: white;
     align-content: center;
+}
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration: underline;
 }
